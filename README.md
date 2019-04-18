@@ -13,4 +13,5 @@ of the plate text segmentation.<br/>
 The CCA can be applied to an entire license plate. Each object extracted is thus acharacter extracted. Hence this method of character extraction requires the characters tobe just separated in the license plate. The objects with very small or a very large widthor height can be neglected as they dont correspond to characters.The CCA stats for sample image is as shown in the Figure 5.3. Based on the aspect ratio,area and height of characters, extraction of the characters from the license plate is shownin Figure.
 #
 #
-![CCA](b40.jpg)
+![](a40.jpg)
+![](b40.jpg)
