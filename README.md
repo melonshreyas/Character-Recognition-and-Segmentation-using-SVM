@@ -40,7 +40,7 @@ CCA Stats of sample image
 #
 Extraction of characters from license plate
 #
-![](b9.png)
+![](b8.png)
 #
 # Support Vector Machine Classification
 SVM belongs to kernel methods or class of maximum margin hyperplane classifiers. The SVM map data from original space to the higher dimensional feature space. SVM classifier is utilized for recognition between two classes by finding a optimum hyperplane that has most extreme separation to the closet points in the preparation set named as support vectors.
@@ -52,6 +52,7 @@ The Result after applying the SVM trained model for identifying the characters. 
 #
 ![](b9.png)
 #
+
 # Explaining about files commited 
 1. Python programme for SVM Classification is present in files SVM-17images.py and SVM-train for 17 images.ipynb.
 2. Segemetation and Recoginition file where CCA is implemented and also the trained model of indetifying the charaters is present in it. 
