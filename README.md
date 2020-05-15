@@ -15,3 +15,10 @@ The CCA can be applied to an entire license plate. Each object extracted is thus
 #
 ![](a40.jpg)
 ![](b40.jpg)
+
+# Support Vector Machine Classification
+SVM belongs to kernel methods or class of maximum margin hyperplane classifiers. The SVM map data from original space to the higher dimensional feature space. SVM classifier is utilized for recognition between two classes by finding a optimum hyperplane that has most extreme separation to the closet points in the preparation set named as support vectors.
+
+SVM is used as a multi - class classifier. One against one is the approach employed for the classification. The system is
+trained with the number of classes set at 36 including 10 numerals and 26 English alphabet letters. The size of segmented characters varies greatly. In this phase, all characters are standardized by image mapping technique to a size of 27 X 36.
+
