@@ -15,7 +15,7 @@ Licens plate extraction from preprocessing step
 #
 Binarised License plate
 #
-![](b12.ong)
+![](b12.png)
 #
 The binarised license plate has noise we will follow operation opening followed by closing operation.
 Opening
