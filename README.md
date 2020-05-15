@@ -61,3 +61,8 @@ The Result after applying the SVM trained model for identifying the characters. 
 4. The training set of images used in this project is present in Training.rar and Training.zip
 5. Some examples pictures have been uploaded
 6. character_model_svm_success.sav ---> Trained model for predicted or identifying the images.
+
+# Additional Information
+For more information about this individual steps I have created separate repository for each step please refer to it. The information is also found in Report that i have uploaded. For understanding the project you can also refer to the Presentation or PPT file being uploaded.
+
+You can also see refer to IEEE website where I have published paper on this Link : https://ieeexplore.ieee.org/document/9002409.
