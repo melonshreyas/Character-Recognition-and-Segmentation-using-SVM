@@ -18,6 +18,7 @@ Binarised License plate
 ![](b12.png)
 #
 The binarised license plate has noise we will follow operation opening followed by closing operation.
+#
 Opening
 #
 ![](b11.png)
@@ -27,7 +28,7 @@ Closing
 ![](b10.png)
 #
 # Connected Component Analysis Approach
-The CCA can be applied to an entire license plate. Each object extracted is thus acharacter extracted. Hence this method of character extraction requires the characters tobe just separated in the license plate. The objects with very small or a very large widthor height can be neglected as they dont correspond to characters.The CCA stats for sample image is as shown in the Figure 5.3. Based on the aspect ratio,area and height of characters, extraction of the characters from the license plate is shown in Figure.
+The CCA can be applied to an entire license plate. Each object extracted is thus acharacter extracted. Hence this method of character extraction requires the characters tobe just separated in the license plate. The objects with very small or a very large widthor height can be neglected as they dont correspond to characters.The CCA stats for sample image is as shown in the Figure below. Based on the aspect ratio,area and height of characters, extraction of the characters from the license plate is shown in Figure.
 #
 #
 ![](a40.jpg)
