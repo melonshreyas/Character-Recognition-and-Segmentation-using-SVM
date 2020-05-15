@@ -21,3 +21,11 @@ SVM belongs to kernel methods or class of maximum margin hyperplane classifiers.
 
 SVM is used as a multi - class classifier. One against one is the approach employed for the classification. The system is
 trained with the number of classes set at 36 including 10 numerals and 26 English alphabet letters. The size of segmented characters varies greatly. In this phase, all characters are standardized by image mapping technique to a size of 27 X 36. Now, the characters size 27 X 36 is converted to binary image. The resulting vector is reshaped with the command binary_image.reshape(-1). Then we are appending the vector of same letter or number under one whole vector set. For example Charater A we have selected 15 images for letter A so the resulting vector for all the 15 letters is tored in one array. We will train the model and identify the segemented characters from the CCA.  
+
+# Explaining about files commited 
+1. Python programme for SVM Classification is present in files SVM-17images.py and SVM-train for 17 images.ipynb.
+2. Segemetation and Recoginition file where CCA is implemented and also the trained model of indetifying the charaters is present in it. 
+3. TrainRecognizeCharaters_SVM.py and SVM-Test.ipynb is the file for evaluating the trained model is correct or not.
+4. The training set of images used in this project is present in Training.rar and Training.zip
+5. Some examples pictures have been uploaded
+6. character_model_svm_success.sav ---> Trained model for predicted or identifying the images.
